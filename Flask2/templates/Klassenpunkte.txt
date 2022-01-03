@@ -1,0 +1,38 @@
+<p></p>
+<!-- ######## This is a comment, visible only in the source editor  ######## -->
+<h2 style="text-align: center;"><span style="color: #0000ff;"><strong>Klassenpunkte 5Gc</strong></span></h2>
+<p></p>
+<h3 style="text-align: center;">0 Punkte</h3>
+<p></p>
+<table border="1" style="border-collapse: collapse; width: 100%; height: 126px;">
+<tbody>
+<tr style="height: 21px;">
+<td style="width: 40.8463%; height: 21px;"><strong>Punkte&nbsp;</strong></td>
+<td style="width: 59.1537%; height: 21px;"><strong>Belohnung</strong></td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 40.8463%; height: 21px;">250</td>
+<td style="width: 59.1537%; height: 21px;">Klassenfeier/Klassenevent</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 40.8463%; height: 21px;">200</td>
+<td style="width: 59.1537%; height: 21px;">Computerraumstunde</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 40.8463%; height: 21px;">150</td>
+<td style="width: 59.1537%; height: 21px;">1xHausaufgabengutschein</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 40.8463%; height: 21px;">100</td>
+<td style="width: 59.1537%; height: 21px;">S&uuml;&szlig;igkeiten f&uuml;r die Klasse</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 40.8463%; height: 21px;">50</td>
+<td style="width: 59.1537%; height: 21px;">
+<p>1xHausaufgabengutschein</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p style="text-align: center;">Viel Spa&szlig; beim Punktesammeln!</p>
